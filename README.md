@@ -59,7 +59,7 @@ ____
     * ### [Java](https://youtu.be/Kp8o-j4FmF8)
 
 _____
-  # Inheritance:  :
+  # Inheritance  :
    *  ## Articles
       * ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#inheritance)
       * ### [Java](https://www.geeksforgeeks.org/inheritance-in-java/)
