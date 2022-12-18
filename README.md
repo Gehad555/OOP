@@ -22,7 +22,7 @@ ___
  * ### Characteristics of an Object Oriented Programming 
 <pre>
 
-        <img src="https://media.geeksforgeeks.org/wp-content/uploads/OOPs-Concepts.jpg" > 
+        <img src="https://media.geeksforgeeks.org/wp-content/uploads/OOPs-Concepts.jpg" width="350" > 
  </pre>
  ___
 
@@ -56,7 +56,7 @@ ____
 * #   Encapsulation  in C++ : 
 
 <pre>
-         <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation-in-C-1.jpg" > 
+         <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation-in-C-1.jpg" width="350"> 
  </pre>
 ____
 # Abstraction :
@@ -81,7 +81,7 @@ _____
      * ### [Java part 2](https://youtu.be/ltuACF2NCh0)
 * # Inheritance in C++ : 
   <pre>
-         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190501121513/inheritance.png"> 
+         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190501121513/inheritance.png" width="350"> 
  </pre>
 
 ___
@@ -99,7 +99,7 @@ ___
   
 * # Polymorphism in C++ : 
   <pre>
-         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190501131135/polymorphism_example.png"> 
+         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190501131135/polymorphism_example.png" width="350"> 
  </pre>
 
 ______
