@@ -3,8 +3,8 @@ ______
  * ### TABLE OF CONTENT:
 ~~~
    1.Introduction
-   1. Class
-   3.Objects
+   2.Objects
+   3. Class
    4.Encapsulation
    5.Abstraction
    6.Inheritance
