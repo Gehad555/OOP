@@ -10,6 +10,7 @@ ______
    6.Inheritance
    7.Polymorphism
    ~~~
+* ## Join The team TO Watch the Session   (42j02g8)
 * ## [Session](https://cisuezedu.sharepoint.com/sites/TROSE/_layouts/15/stream.aspx?id=%2Fsites%2FTROSE%2FShared%20Documents%2FOOP%20with%20cpp%2FRecordings%2FMeeting%20in%20_OOP%20with%20c%2B%2B_-20221219_190510-Meeting%20Recording.mp4)
 * ## [Oop Comic](https://www.facebook.com/GDSCSuezCanalUniversity/photos/482295073245315)
 ___
