@@ -8,11 +8,9 @@ Simply put, OOP focuses on the objects that developers want to manipulate rather
 
 OOP was developed to increase the reusability and maintainability of source code. Transparent representation of the control flow had no priority and was meant to be handled by a compiler. With the increasing relevance of parallel hardware and multithreaded coding, developing transparent control flow becomes more important, something hard to achieve with OOP
 
+## Principles of OOP
 
-## Principles of OOP 
-
-![Class Example](./images/Pillar-OOP.jpg)
----
+## ![Class Example](./images/Pillar-OOP.jpg)
 
 - ### TABLE OF CONTENT:
 
@@ -122,22 +120,66 @@ int main()
 
 ---
 
-# Encapsulation :
+- # Encapsulation :
 
-- ## Articles
-  - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#encapsulation)
-  - ### [Java](https://www.geeksforgeeks.org/encapsulation-in-java/)
-- ## Videos
-  - ### [Concept](https://youtu.be/qP9-3LnMZsE)
-  - ### [C++](https://youtu.be/eNtsHReY1Hop)
-  - ### [Java](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
-- # Encapsulation in C++ :
+![Encapsulation Example](./images/encapsulation.png)
+---
+![Encapsulation Example](https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation-in-C-1.jpg)
 
-<pre>
-         <img src="https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation-in-C-1.jpg" width="300"> 
- </pre>
+---
+The wrapping up of data and functions into a single unit. It's use concept of data hidding.
 
-- # c++ program to explain
+It's make data hide/not accessible to the outside world . Those functions where are wrapped in the class can access it. (The functions provide interface between objs and program).
+
+In other words, encapsulation is a programming technique that binds the class members (variables and methods) together and prevents them from being accessed by other classes, thereby we can keep variables and methods safes from outside interference and misuse.
+
+The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users. To achieve this, you must:
+
+- declare class variables/attributes as private
+- provide public get and set methods to access and update the value of a private variable
+
+### Get and Set
+
+You learned that `private` variables can only be accessed within the same class (an outside class has no access to it). However, it is possible to access them if we provide public `get` and `set` methods.
+
+The `get` method returns the variable value, and the `set` method sets the value.
+
+Syntax for both is that they start with either `get` or `set`, followed by the name of the variable, with the first letter in upper case:
+
+```c++
+class Person {
+  private:
+    string name; // private = restricted access
+
+  // Getter
+  public:
+    string getName() {
+        return name; // return the value of the variable name
+    }
+
+    // Setter
+    void setName(string newName) {
+        this.name = newName; // The set method takes a parameter (newName) and assigns it to the name variable
+    }
+}
+
+```
+
+### Advantage of Encapsulation?
+
+- Better control of class attributes and methods
+- Flexible: the programmer can change one part of the code without affecting other parts
+- Increased security of data
+- The encapsulated code is more flexible and easy to change with new requirements.
+- It prevents the other classes to access the private fields.
+- Encapsulation allows modifying implemented code without breaking others code who have implemented the code.
+- It keeps the data and codes safe from external inheritance. Thus, Encapsulation helps to achieve security.
+- It improves the maintainability of the application.
+
+
+---
+
+- # Another C++ program to explain
 
 ```c++
 #include<iostream>
@@ -175,6 +217,14 @@ int main()
    return 0;
 }
 ```
+---
+- ## Articles
+  - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#encapsulation)
+  - ### [Java](https://www.geeksforgeeks.org/encapsulation-in-java/)
+- ## Videos
+  - ### [Concept](https://youtu.be/qP9-3LnMZsE)
+  - ### [C++](https://youtu.be/eNtsHReY1Hop)
+  - ### [Java](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
 
 ---
 
