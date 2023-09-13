@@ -217,6 +217,9 @@ int main()
    return 0;
 }
 ```
+### Example with images
+![Encapsulation Example](./images/Slide3.JPG)
+
 ---
 - ## Articles
   - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#encapsulation)
