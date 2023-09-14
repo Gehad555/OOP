@@ -122,11 +122,12 @@ int main()
 
 - # Encapsulation :
 
-![Encapsulation Example](./images/encapsulation.png)
----
+## ![Encapsulation Example](./images/encapsulation.png)
+
 ![Encapsulation Example](https://media.geeksforgeeks.org/wp-content/uploads/Encapsulation-in-C-1.jpg)
 
 ---
+
 The wrapping up of data and functions into a single unit. It's use concept of data hidding.
 
 It's make data hide/not accessible to the outside world . Those functions where are wrapped in the class can access it. (The functions provide interface between objs and program).
@@ -176,7 +177,6 @@ class Person {
 - It keeps the data and codes safe from external inheritance. Thus, Encapsulation helps to achieve security.
 - It improves the maintainability of the application.
 
-
 ---
 
 - # Another C++ program to explain
@@ -217,10 +217,13 @@ int main()
    return 0;
 }
 ```
+
 ### Example with images
+
 ![Encapsulation Example](./images/Slide3.JPG)
 
 ---
+
 - ## Articles
   - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#encapsulation)
   - ### [Java](https://www.geeksforgeeks.org/encapsulation-in-java/)
@@ -232,6 +235,30 @@ int main()
 ---
 
 # Abstraction :
+
+It is the process of hiding internal implementation details from the user and providing only necessary functionality to the users. It removes all non-essential things and shows only important things to users.
+
+In other words, Abstraction in Java is a technique by which we can hide the data that is not required to a user
+
+Abstraction forces to use Inheritance
+
+**Example**
+
+We all use an ATM machine for cash withdrawal, money transfer, retrieve min-statement, etc in our daily life. But we don't know internally what things are happening inside ATM machine when you insert ATM card for performing any kind of operations.
+
+![Abstraction Example](./images/abstraction.jpg)
+![Abstraction Example](./images/OOPAbstraction.png)
+
+Advantages
+
+- It reduces the complexity of viewing the things.
+- Avoids code duplication and increases reusability.
+- Helps to increase security of an application or program as only important details are provided to the user.
+- Programmer can implement abstract method to perform different tasks depending on the need.
+
+### Example with images
+
+![Abstraction Example](./images/Slide4.JPG)
 
 - ## Articles
   - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#abstraction)
