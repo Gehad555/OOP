@@ -247,6 +247,7 @@ Abstraction forces to use Inheritance
 We all use an ATM machine for cash withdrawal, money transfer, retrieve min-statement, etc in our daily life. But we don't know internally what things are happening inside ATM machine when you insert ATM card for performing any kind of operations.
 
 ![Abstraction Example](./images/abstraction.jpg)
+![Abstraction Example](./images/OOPAbstraction.png)
 
 Advantages
 
