@@ -255,6 +255,10 @@ Advantages
 - Helps to increase security of an application or program as only important details are provided to the user.
 - Programmer can implement abstract method to perform different tasks depending on the need.
 
+### Example with images
+
+![Abstraction Example](./images/Slide4.JPG)
+
 - ## Articles
   - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#abstraction)
   - ### [Java](https://www.geeksforgeeks.org/abstraction-in-java-2/)
