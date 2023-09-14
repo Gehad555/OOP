@@ -256,19 +256,6 @@ Advantages
 - Helps to increase security of an application or program as only important details are provided to the user.
 - Programmer can implement abstract method to perform different tasks depending on the need.
 
-### Example with images
-
-![Abstraction Example](./images/Slide4.JPG)
-
-- ## Articles
-  - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#abstraction)
-  - ### [Java](https://www.geeksforgeeks.org/abstraction-in-java-2/)
-- ## Videos
-
-  - ### [Concept](https://youtu.be/dW4WhJZB99U)
-  - ### [C++](https://youtu.be/JJEYMKVWEuc)
-  - ### [Java](https://youtu.be/Kp8o-j4FmF8)
-
 - ## Program to Demonstrate the working of Abstraction :
 
 ```c++
@@ -303,6 +290,19 @@ int main()
    return 0;
 }
 ```
+
+### Example with images
+
+![Abstraction Example](./images/Slide4.JPG)
+
+- ## Articles
+  - ### [C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#abstraction)
+  - ### [Java](https://www.geeksforgeeks.org/abstraction-in-java-2/)
+- ## Videos
+
+  - ### [Concept](https://youtu.be/dW4WhJZB99U)
+  - ### [C++](https://youtu.be/JJEYMKVWEuc)
+  - ### [Java](https://youtu.be/Kp8o-j4FmF8)
 
 ---
 
